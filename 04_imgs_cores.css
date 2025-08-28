@@ -13,3 +13,12 @@ img:hover {
     border-color: blue;
     opacity: 0.3;
 }
+.img-link {
+width: 150px;
+height: 500px;
+object-fit: contain;
+}
+
+table{
+    bo
+}
